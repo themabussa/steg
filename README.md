@@ -10,7 +10,4 @@ The use of the library is very simple. You just have to add the .js-file to your
 * **encode** takes a *message* as String and a *image* as Image, HTMLImageElement or String representing the data-URL of the cover image. Returns the data-URL of the image with the encoded message inside.
 * **decode** takes a *image* as Image, HTMLImageElement or String representing the data-URL of the image and returns the message which was found in the image.
 	
-## Contact me
-If you have any questions, contact me.<br/>
-My website [www.peter-eigenschink.at](http://www.peter-eigenschink.at/)<br/>
-My Twitter account [@eigenschinkpeter](https://twitter.com/eigenschinkpete)
+
